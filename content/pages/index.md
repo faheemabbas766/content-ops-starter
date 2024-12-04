@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Social Media Management
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: Website under construction.
     text: >
       Exciting news! We're currently working on our new website, and it's coming
       soon. Stay tuned for more updates and get ready for a fresh online
