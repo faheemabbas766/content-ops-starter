@@ -12,13 +12,7 @@ sections:
       Exciting news! We're currently working on our new website, and it's coming
       soon. Stay tuned for more updates and get ready for a fresh online
       experience. We can't wait to share it with you
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero2.svg
