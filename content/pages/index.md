@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Working on it.
       color: text-dark
     subtitle: Website under construction.
     text: >
