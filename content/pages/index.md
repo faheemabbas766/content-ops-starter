@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Working on it.
       color: text-dark
-    subtitle: Website under construction.
+    subtitle: Website is under construction.
     text: >
       Exciting news! We're currently working on our new website, and it's coming
       soon. Stay tuned for more updates and get ready for a fresh online
