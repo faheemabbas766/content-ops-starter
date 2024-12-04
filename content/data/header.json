@@ -2,7 +2,7 @@
     "logo": {
         "type": "ImageBlock",
         "url": "/images/Untitled.png",
-        "altText": "Image alt text placeholder",
+        "altText": "P",
         "elementId": "",
         "styles": {
             "self": {
